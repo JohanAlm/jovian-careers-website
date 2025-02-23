@@ -15,7 +15,7 @@ author = 33654254
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
-args = "python3 app.py"
+args = "python app.py"
 
 [[ports]]
 localPort = 5000
